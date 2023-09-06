@@ -14,6 +14,12 @@ public class App {
 
         System.out.println("produkten av tal1*tal2 är "+produkt);
         System.out.println("kvoten av tal1/tal2 är "+kvot);
+
+        int rest1 = 10%3;
+        int rest2 = 9%3;
+
+        System.out.println("resten av 10/3 är "+rest1);
+        System.out.println("resten av 9/3 är "+rest2);
     }
 
 }
